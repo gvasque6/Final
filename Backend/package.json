@@ -1,0 +1,29 @@
+{
+	"name": "datawarehouse",
+	"version": "0.0.1",
+	"description": "API proyecto 4",
+	"main": "index.js",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"helmet": "^4.1.1",
+		"jsonwebtoken": "^8.5.1",
+		"mysql2": "^2.2.5",
+		"sequelize": "^6.3.5"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Valentina-vr/Delilah_Resto.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Valentina-vr/Delilah_Resto/issues"
+	},
+	"homepage": "https://github.com/Valentina-vr/Delilah_Resto#readme"
+}
